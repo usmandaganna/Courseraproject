@@ -52,7 +52,7 @@ line-height: .75;
 vertical-align: middle;
 }
 
-/* END HEADER*/
+/* END HEADER
 
 /*********large devices only *********/
 @media (min-width: 1200px ) {
@@ -145,4 +145,4 @@ vertical-align: middle;
     box-shadow: 0 0 50px #3f0c1f;
     border: 2px solid #3f0c1f;
     /*End Home Page*/
- }
+ } 
